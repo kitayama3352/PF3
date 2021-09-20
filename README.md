@@ -1,24 +1,30 @@
-# README
+# SNS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+日常の出来事を呟け、写真も投稿できる
 
-Things you may want to cover:
+### サイトテーマ
+暇つぶし
 
-* Ruby version
+### テーマを選んだ理由
+利用者の暇つぶしになれば
 
-* System dependencies
+### ターゲットユーザ
+１０代後半から３０代
 
-* Configuration
+### 主な利用シーン
+暇な時
 
-* Database creation
 
-* Database initialization
+## 設計書
+最低限、新規登録機能、ログイン機能、投稿機能、閲覧機能、コメント機能、いいね等あれば
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1A3GpCEnLqnUpLvf964FhcObYGe77GgrnHgpngD29CNA/edit?usp=sharing
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
